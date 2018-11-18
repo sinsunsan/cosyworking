@@ -1,0 +1,27 @@
+#pricing .fr-text {
+  text-align: center;
+}
+#pricing #pricing-card {
+  width: auto;
+  margin-top: 30px;
+}
+#pricing #paragraph_center_11 {
+  text-align: center;
+}
+#pricing #paragraph_center_10 {
+  text-align: center;
+}
+#pricing-features {
+  margin-top: 20px;
+}
+#pricing-features .fr-text {
+  width: 180px;
+  text-align: left;
+  margin: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+#place-description {
+  margin-top: 50px; 
+  margin-bottom: 80px;
+}
