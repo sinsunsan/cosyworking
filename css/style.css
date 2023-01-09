@@ -228,10 +228,16 @@ a:hover {
   font-weight: 900;
   font-size: 5rem;
   text-align: left;
-  color: #ff0054
+  color: #ff0054;
+  margin-bottom: 50px;
 }
+
 .fr_price_title .fr-text {
-  font-size: 70px; 
+  font-size: 30px; 
+}
+
+.fr_price_title .fr-text .big {
+  font-size: 50px;
 }
 
 .fr_section_title {
